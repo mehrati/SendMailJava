@@ -1,1 +1,1 @@
-Simple Port Scanner Python 3.x
+Simple program Send mail with javamail API
